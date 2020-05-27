@@ -1,0 +1,44 @@
+
+
+.food{
+    width: 30rem;
+    margin: 3rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 40%;
+    justify-content: space-around;
+    padding: 2rem;
+    box-shadow: 2rem 3rem 5rem #aaa;
+}
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+  div>li {
+    font-size: 14px;
+    color: white;
+margin-right: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 1.4em;
+    padding:6px;
+    border-radius: 10%;
+    background-color: black;
+    list-style: none;
+    display: inline-block;
+  }
+  
+h1, p{
+    text-transform: capitalize;
+    text-align: center;
+}
+.image{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+}
+
+
+  
